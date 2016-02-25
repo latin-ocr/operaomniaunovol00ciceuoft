@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaunovol00ciceuoft_0025.png"; bbox 0 0 1941 3052; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 346 984 1366 1043">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 346 984 1366 1043">
+     <span class='ocr_line' id='line_1_1' title="bbox 346 984 1366 1043; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 346 984 574 1041; x_wconf 74' lang='lat' dir='ltr'><strong>MAROI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 644 985 891 1043; x_wconf 82' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 963 985 1366 1042; x_wconf 72' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 104 1241 1616 1330">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 104 1241 1616 1330">
+     <span class='ocr_line' id='line_1_2' title="bbox 104 1241 1616 1330; baseline 0.002 -5"><span class='ocrx_word' id='word_1_4' title='bbox 104 1241 573 1326; x_wconf 79' lang='lat' dir='ltr'>OPERA</span> <span class='ocrx_word' id='word_1_5' title='bbox 725 1242 1616 1330; x_wconf 81' lang='lat' dir='ltr'><strong>RHETORICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 678 1556 1046 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 678 1556 1046 1573">
+     <span class='ocr_line' id='line_1_3' title="bbox 678 1556 1046 1573; baseline -0.011 1"><span class='ocrx_word' id='word_1_6' title='bbox 678 1556 1023 1573; x_wconf 33' lang='grc' dir='ltr'><strong>ἤιε».</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1037 1565 1046 1567; x_wconf 24' lang='grc' dir='ltr'>μ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
